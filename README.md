@@ -1,8 +1,10 @@
 doctrine-orm-manager-registry-provider
 ======================================
 
-Deprecated, please use saxulum/saxulum-doctrine-orm-manager-registry-provider
------------------------------------------------------------------------------
+Deprecated
+----------
+
+Please use `saxulum/saxulum-doctrine-orm-manager-registry-provider` in version >= 2.0
 
 ```{.json}
 {
