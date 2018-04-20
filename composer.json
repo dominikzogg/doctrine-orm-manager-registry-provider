@@ -17,6 +17,7 @@
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
+    "abandoned": "saxulum/saxulum-doctrine-orm-manager-registry-provider",
     "suggest": {
         "symfony/doctrine-bridge": "~2.2",
         "symfony/form": "~2.2",
